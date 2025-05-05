@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+**/bin/
+**/obj/
+publish/
+**/publish/
+*.zip
+*.tar.gz
+*.log
+publish.zip
+
+# User/IDE files
+*.user
+*.suo
+*.userprefs
+.vscode/
+.DS_Store
+
+# Secrets (optional)
+*.env
+.env.local
